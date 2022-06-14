@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/88059700/173490963-997fa75b-f26c-4518-b7b8-2f02baddd900.png)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyonam99)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hyonam99&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 <!--
 **Hyonam99/Hyonam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
